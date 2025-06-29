@@ -1,0 +1,33 @@
+.first-article {
+    text-align: center;
+
+}
+
+h1 {
+    color: red;
+}
+
+.mor-baslik {
+    color: blueviolet;
+}
+
+.sari-baslik {
+    color: gold;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+ul {
+      list-style-type: disc;           /* Madde işareti (nokta) */
+      list-style-position: inside;     /* Noktayı metne hizala */
+      text-align: center;              /* Metni ortala */
+      padding: 0;
+    }
+
+ol {
+      list-style-position: inside;     /* Noktayı metne hizala */
+      text-align: center;              /* Metni ortala */
+      padding: 0;
+}
